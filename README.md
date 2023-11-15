@@ -1,9 +1,9 @@
 # algorithm
-quick_sort
-MST
-dijkstra
-Floyd_Warshall
-Knapsack
+quick_sort <br>
+MST<br>
+dijkstra<br>
+Floyd_Warshall<br>
+Knapsack<br>
 
 
 
